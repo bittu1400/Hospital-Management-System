@@ -45,9 +45,8 @@ Ensure you have the following installed on your system:
 ## Screenshots
 (Add screenshots here to showcase the interface and functionality)
 
-## Contributors
-- [Your Name](https://github.com/your-username)
-- Other team members (if applicable)
+## Author
+- [Suraj Sah](https://github.com/your-username)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
