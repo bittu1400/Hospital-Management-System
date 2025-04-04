@@ -7,8 +7,7 @@ This is a **Hospital Management System** built using **Python**. It helps manage
 - **Patient Management:** Add, update, and delete patient records.
 - **Doctor Management:** Assign doctors to patients and manage schedules.
 - **Appointment Scheduling:** Book and manage appointments.
-- **Billing System:** Generate and manage bills for patients.
-- **User Authentication:** Secure login for different user roles.
+- **User Authentication:** Secure login for Admin.
 - **Data Storage:** Uses a database to store hospital records.
 
 ## Installation
